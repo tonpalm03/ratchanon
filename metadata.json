@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ระบบเช็คชื่อ QR Code (QR Attendance System)",
+  "description": "A modern web application for tracking attendance using QR codes, featuring a secure login and a camera-based scanner.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
